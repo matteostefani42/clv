@@ -3,14 +3,23 @@ div {
 }
 
 .container-md {
-  margin-left: auto - 300px;
-  margin-right: auto - 300px;
+  margin-left: auto;
+  margin-right: auto;
 }
   
-.column {
-  font-family: "Times New Roman", Times, "Lucida Console", "Candara", sans-serif;
+.column-sm {
+  float: left;
+  width: 25%;
+}
+  
+.column-md {
   float: left;
   width: 50%;
+}
+  
+.column-lg {
+  float: left;
+  width: 75%;
 }
 
 .row {
