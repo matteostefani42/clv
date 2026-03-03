@@ -7,6 +7,11 @@ div {
   margin-right: auto;
 }
   
+.column-strip {
+  float: left;
+  width: 10%;
+}
+  
 .column-sm {
   float: left;
   width: 25%;
@@ -19,7 +24,7 @@ div {
   
 .column-md-box {
   float: left;
-  width: 37.5%;
+  width: 45%;
   box-shadow: 5px 5px 2px 1px rgb(0 0 0 / 0.1)
 }
   
@@ -36,11 +41,11 @@ div {
 <!-- Icons -->
 
 .icons {
-  color: #cc7722;
+  color: #B89161;
 }
 
 i {
-  color: #cca122;
+  color: #B89161;
   font-size: 40px;
 }
 
