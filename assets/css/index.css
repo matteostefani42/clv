@@ -3,8 +3,8 @@ div {
 }
 
 .container-md {
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: auto - 100px;
+  margin-right: auto - 100px;
 }
   
 .column {
@@ -14,6 +14,6 @@ div {
 }
 
 .row {
-  width: 150%;
-  padding-bottom: 40px;
+  width: 100%;
+  padding-bottom: 30px;
 }
