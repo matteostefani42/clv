@@ -40,11 +40,19 @@ div {
 
 <!-- Icons -->
 
+.icons {
+  color: #B89161;
+}
+
 i {
   color: #B89161;
   font-size: 40px;
 }
 
+.fa {
+  font-size: 40px;
+}
+  
 <!-- Links -->
 
 a {
