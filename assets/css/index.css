@@ -27,12 +27,6 @@ body, h1, h2, h3, h4, h5, h6 {
   width: 50%;
 }
   
-.column-md-box {
-  float: left;
-  width: 45%;
-  box-shadow: 5px 5px 2px 1px rgb(0 0 0 / 0.1)
-}
-  
 .column-lg {
   float: left;
   width: 70%;
@@ -41,6 +35,12 @@ body, h1, h2, h3, h4, h5, h6 {
 .row {
   width: 100%;
   padding-bottom: 30px;
+}
+  
+.row-box {
+  float: left;
+  width: 45%;
+  box-shadow: 5px 5px 2px 1px rgb(0 0 0 / 0.1)
 }
 
 <!-- Icons -->
