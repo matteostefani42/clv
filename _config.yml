@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Studio legale Mambro
+title: Studio Legale Mambro
 
 # Your name to show in the footer
 author: Matteo Stefani
@@ -21,10 +21,10 @@ author: Matteo Stefani
 
 navbar-links:
   Servizi:
-    - Immigrazione e Cittadinanza: "Servizi#imm-citt"
-    - Diritto Civile: "Servizi#civile"
-    - Diritto Penale: "Servizi#penale"
-    - Golden Visa: "Servizi#golden-visa"
+    - Immigrazione e Cittadinanza: "servizi#imm-citt"
+    - Diritto Civile: "servizi#civile"
+    - Diritto Penale: "servizi#penale"
+    - Golden Visa: "servizi#golden-visa"
   Home: "https://matteostefani42.github.io/mambrolegal.github.io/"
 
 ################
