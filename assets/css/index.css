@@ -17,19 +17,23 @@ body, h1, h2, h3, h4, h5, h6 {
   
 .column-sm {
   width: 25%;
+  float: left;
   padding-top: 10px;
 }
   
 .column-md {
   width: 50%;
+  float: left;
 }
   
 .column-lg {
   width: 70%;
+  float: left;
 }
   
 .column-lg-text {
   width: 70%;
+  float: left;
   padding-left: 20px;
 }
 
