@@ -39,11 +39,13 @@ body, h1, h2, h3, h4, h5, h6 {
 
 .row {
   width: 100%;
+  float: left;
   margin-bottom: 30px;
 }
   
 .row-box {
   width: 100%;
+  float: left;
   box-shadow: 0px 3px 5px 1px rgba(0, 0, 0, 0.1), 0px 3px 5px 1px rgba(0, 0, 0, 0.1);
   margin-bottom: 30px;
   padding-left: 20px;
@@ -51,6 +53,7 @@ body, h1, h2, h3, h4, h5, h6 {
 
 .row-header {
   width: 100%;
+  float: left;
   text-align: center;
   margin-bottom: 30px;
 }
