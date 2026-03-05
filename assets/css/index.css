@@ -16,7 +16,7 @@ body, h1, h2, h3, h4, h5, h6 {
 }
   
 .column-sm {
-  width: 25%;
+  width: 15%;
   float: left;
   padding-top: 10px;
 }
@@ -27,14 +27,8 @@ body, h1, h2, h3, h4, h5, h6 {
 }
   
 .column-lg {
-  width: 70%;
+  width: 80%;
   float: left;
-}
-  
-.column-lg-text {
-  width: 70%;
-  float: left;
-  padding-left: 20px;
 }
 
 .row {
