@@ -20,7 +20,7 @@ author: Matteo Stefani
 ###############################################
 
 navbar-links:
-  Servizi: "Servizi"
+  Servizi:
     - Immigrazione e Cittadinanza: "Servizi#imm-citt"
     - Diritto Civile: "Servizi#civile"
     - Diritto Penale: "Servizi#penale"
