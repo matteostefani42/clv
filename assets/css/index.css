@@ -6,6 +6,10 @@ body, h1, h2, h3, h4, h5, h6 {
   font-family: "Palatino Linotype", sans-serif;
 }
 
+h4 {
+  padding-top: 0px;
+}
+
 .container-md {
   margin-left: auto;
   margin-right: auto;
@@ -23,7 +27,6 @@ body, h1, h2, h3, h4, h5, h6 {
   width: 15%;
   float: left;
   align-items: center;
-  padding-top: 10px;
 }
   
 .column-md {
@@ -76,6 +79,7 @@ i {
 
 .fa {
   font-size: 40px;
+  line-height: 150%
 }
   
 <!-- Links -->
